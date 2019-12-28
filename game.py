@@ -1,27 +1,15 @@
 import random
 
-def func(num):
-    x=random.randint(num)
-    n=input('enter a no, bet 0 and 11')
+def func():
+    x=random.randint(0,11)
+    n=int(input('enter a no, bet 0 and 10 :'))
 
     if(x==n):
         print('you won')
-    elif:
+    elif(x!=n):
         print('you lose')
     else:
         print('wrong input')
         
-func(11)   
-print('done my changes')
-
-if(x==n):
-    print('you won')
-elif:
-    print('you lose')
-else:
-    print('wrong input')
-    
-print('all good')    
-
-print('checking')
-
+func()
+print('better luck next time')
