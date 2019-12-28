@@ -8,3 +8,5 @@ elif:
     print('you lose')
 else:
     print('wrong input')
+    
+print('all good')    
