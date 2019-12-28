@@ -13,3 +13,13 @@ def func(num):
         
 func(11)   
 print('done my changes')
+
+if(x==n):
+    print('you won')
+elif:
+    print('you lose')
+else:
+    print('wrong input')
+    
+print('all good')    
+
