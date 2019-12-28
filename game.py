@@ -4,5 +4,7 @@ n=input('enter a no, bet 1 and 10')
 
 if(x==n):
     print('you won')
-else:
+elif:
     print('you lose')
+else:
+    print('wrong input')
